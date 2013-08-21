@@ -35,3 +35,7 @@ Every week we'll have a short presentation (or more) on something we want to lea
 ###kibble 28.8.2013
 - [ ] [@ashocka](https://github.com/ashocka): introduction to jQuery
 - [ ] [@sparkica](https://github.com/sparkica): form validation with jQuery
+
+
+#Required reading
+- [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
