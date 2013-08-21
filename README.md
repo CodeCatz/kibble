@@ -6,7 +6,8 @@ Tutorials, presentations and what-nots
 #Instructions
 It's really simple.
 
-1. fork this repo
+1. fork this repo (you can do it from this website)
+2. clone your repo and move into it
 2. check if *topic folder* exists (e.g. jQuery, php, django), if not *create it*
 3. inside the topic folder create a _new folder_ for your presentation in following format _year-month-day-keywords_ (see example below)
 4. put your files in the folder you created
