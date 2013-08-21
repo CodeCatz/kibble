@@ -1,4 +1,4 @@
-kibble - though food for kittens
+kibble - brain food for kittens
 ======
 
 Tutorials, presentations and what-nots
