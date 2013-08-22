@@ -6,7 +6,7 @@ Tutorials, presentations and what-nots.
 ##Read this first
 
 Working with the Kibble repository won't be the same as with litterbox. You don't have an access to directly push your changes to kibble. 
-It's not that we don't like you anymore -- we do! -- we'll just want to show you and make you comfortable with a differend kind of *workflow*.
+It's not that we don't like you anymore -- we do! -- we just want to show you and make you comfortable with a differend kind of *workflow*.
 
 Suggested reading: [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
