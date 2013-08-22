@@ -1,13 +1,63 @@
 kibble - brain food for kittens
 ======
 
-Tutorials, presentations and what-nots
+Tutorials, presentations and what-nots.
 
-#Instructions
-It's really simple.
+##Read this first
 
-1. fork this repo (you can do it from this website)
-2. clone your repo and move into it
+Working with the Kibble repository won't be the same as with litterbox. You don't have an access to directly push your changes to kibble. 
+It's not that we don't like you anymore -- we do! -- we'll just want to show you and make you comfortable with a differend kind of *workflow*.
+
+Suggested reading: [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+##Set up your kibble
+It's really simple. Ok, maybe it's that simple, but you can do it.
+
+
+###First time only - fork and clone the kibble
+
+1. Fork this repository (repo) by clicking the Fork button (hint: opposite of the repo's name)
+2. Copy the clone url of your repo (you can find it in the right sidebar)
+3. Open a terminal, move to the folder with your projects (let's keep your work organized) and clone the repo.
+
+ ```
+ git clone <URL TO YOUR REPOSITORY>
+ ``` 
+ Make sure *you clone your own forked repository*, not this one.
+
+4. Go to the kibble folder (it's created by cloning) and list all remotes linked to you forked repository:
+ ```
+ git remote -v
+ ``` 
+ You should see only something like this:
+ ````
+ origin  https://github.com/<YOUR USERNAME>/kibble.git (fetch)
+ origin  https://github.com/<YOUR USERNAME>/kibble.git (push)
+ ```
+
+5. Add a remote for this CodeCatz kibble by typing:
+ ````
+ git remote add upstream https://github.com/CodeCatz/kibble.git
+ ```
+ This will add a link with a name upstream to the original repo you forked from.
+6. Verify new remote:
+ ````
+ git remote -v
+ ```
+ You should see additional two rows:
+ ````
+ origin  https://github.com/<YOUR USERNAME>/kibble.git (fetch)
+ origin  https://github.com/<YOUR USERNAME>/kibble.git (push)
+ upstream  https://github.com/CodeCatz/kibble.git (fetch)
+ upstream  https://github.com/CodeCatz/kibble.git (push)
+ ```
+
+You are all set and can go prepare materials for your presentation/tutorial. Check next section on where to put your materials.
+
+
+###Any other time: preparing new kibble materials and sharing it with others
+
+1. Open a terminal, move to the kibble folder
 2. check if *topic folder* exists (e.g. jQuery, php, django), if not *create it*
 3. inside the topic folder create a _new folder_ for your presentation in following format _year-month-day-keywords_ (see example below)
 4. put your files in the folder you created
