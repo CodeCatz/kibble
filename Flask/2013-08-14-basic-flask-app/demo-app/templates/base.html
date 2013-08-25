@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link href="{{ url_for('.static', filename='bootstrap/css/bootstrap.css') }}" rel="stylesheet" />
+
+        <link href="{{ url_for('.static', filename='css/custom.css') }}" rel="stylesheet" />
+
+        <title>Demo Flask app</title>
+    </head>
+    <body>
+    <h1>This is a big heading</h1>
+
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+
+    <footer><br />Pages: <a href="/">index</a> | <a href="/demo">demo</a> | <a href="/test">test</a>
+
+    <script src="{{ url_for('.static', filename='js/jquery-1.10.2.min.js') }}"></script>
+    <script src="{{ url_for('.static', filename='bootstrap/js/bootstrap.js') }}"></script>
+    </body>
+</html>
