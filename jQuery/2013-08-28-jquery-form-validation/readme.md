@@ -6,7 +6,7 @@ Validating html forms with jQuery (plugin)
 Form validation is a process of validating user's input. 
 People often do mistakes and the goal of form validation is to ensure that all inputs are valid (e.g. email addresses and URLs don't contain any invalid characters, dates are properly formatted) and that required inputs are not empty.
 
-There are two basic validation methods: server-side and slient-side.
+There are two basic validation methods: server-side and client-side.
 
 ### Client-side validation
 
@@ -90,7 +90,7 @@ success: function(element) {
 ...
 ...
 ```` 
-If form was successfully validated, it is submitted. We defined submitHandler to catch submit event and display a message before actually submitting:
+If form was successfully validated, it is submitted. We defined _submitHandler_ to catch submit event and display a message before actually submitting:
 ````
 submitHandler: function(form) {
 // do other things for a valid form
