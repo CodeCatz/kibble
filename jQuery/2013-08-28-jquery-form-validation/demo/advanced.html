@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <title>Validating forms with jQuery</title>
+
+  </head>
+  <body>
+    <div class="container">
+    <h1>Demo: using jQuery Validation plugin</h1>
+    <form role="form" id="demoForm" method="get" action="">
+        <div class="form-group">
+        <label class="control-label" for="demoName">Your name (required)</label>
+        <input type="text" class="form-control" id="demoName" name="demoName" placeholder="Enter your name"/>
+      </div>
+        <div class="form-group">
+        <label class="control-label" for="demoEmail">Email address (required)</label>
+        <input type="email" class="form-control" id="demoEmail" name="demoEmail" placeholder="Enter email"/>
+      </div>
+        <div class="form-group">
+        <label class="control-label" for="demoHomepage">Homepage URL (optional)</label>
+        <input type="url" class="form-control" id="demoHomepage" name="demoHomepage" placeholder="Enter your homepage URL"/>
+      </div>
+      <div class="form-group">
+        <label class="control-label" for="demoPass">Password (required)</label>
+        <input type="password" class="form-control" id="demoPass" name="demoPass" placeholder="Password"/>
+      </div>
+      <div class="form-group">
+        <label class="control-label" for="demoComment">Comment (optional)</label>
+        <textarea class="form-control" rows="3" id="demoComment" name="demoComment"></textarea>
+      </div>
+      <div class="checkbox">
+        <label class="control-label">
+          <input type="checkbox"> I'm here! Check me out!</input>
+        </label>
+      </div>
+      <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+    </div>
+
+  <script src="./js/jquery-1.10.2.min.js"></script>
+  <script src="./js/jquery.validate.js"></script>
+  <script src="./bootstrap/js/bootstrap.js"></script>
+  <script src="./js/myscript.js"></script>
+  </script>
+  </body>
+</html>
