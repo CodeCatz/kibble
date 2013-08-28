@@ -11,7 +11,7 @@ It's not that we don't like you anymore -- we do! -- we just want to make you co
 Suggested reading: [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
 ##Set up your kibble
-It's really simple. Ok, maybe it's that simple, but you can do it.
+It's really simple. Ok, maybe it's not *that* simple, but you can do it.
 
 
 ###First time only - fork and clone the kibble
