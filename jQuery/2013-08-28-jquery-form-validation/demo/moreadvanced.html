@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="./bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css"/>
+    <title>Validating forms with jQuery</title>
+
+  </head>
+  <body>
+    <div class="container">
+    <h1>Demo: using jQuery Validation plugin</h1>
+    <form role="form" id="specialForm" method="get" action="">
+        <div class="form-group">
+        <label class="control-label" for="demoName">Your name (required)</label>
+        <input type="text" class="form-control" id="demoName" name="demoName" placeholder="Enter your name"/ required>
+      </div>
+        <div class="form-group">
+        <label class="control-label" for="demoEmail">Email address (required)</label>
+        <input type="email" class="form-control" id="demoEmail" name="demoEmail" placeholder="Enter email"/ required>
+      </div>
+
+	<div class="form-group">
+		<label>Are you a codecat...? (required)</label>
+	<div class="checkbox">
+	  <label>
+	    <input type="checkbox" value="" name="checkFunny">Yes, I am!
+	  </label>
+	</div>
+	</div>
+
+	<div class="form-group">
+		<label>Select one (required):</label>
+		<div class="radio">
+	  		<label>
+	    		<input type="radio" name="optionsGender" id="optionsRadios1" value="option1">
+	    		Woman
+	  		</label>
+		</div>
+		<div class="radio">
+	  		<label>
+	    		<input type="radio" name="optionsGender" id="optionsRadios2" value="option2">
+	    		Man
+	  		</label>
+		</div>
+	</div>
+	<div class="form-group">
+		<label>Number of RL friends</label>
+	<select class="form-control" name="selFriends">
+	  <option>10</option>
+	  <option>20</option>
+	  <option>30</option>
+	  <option>40</option>
+	  <option>50</option>
+	</select>
+	</div>
+	<div class="form-group">
+	<label> Your attitude is... (you can select more than one)</label>
+	<select multiple class="form-control" name="selAttitude">
+	  <option>positively negative</option>
+	  <option>mostly negative</option>
+	  <option>mostly positive</option>
+	  <option>ray of sunshine</option>
+	  <option>hopeless</option>
+	</select>
+	</div>
+	<div class="form-group">
+      <button type="submit" class="btn btn-default">Submit</button>
+	</div>
+    </form>
+    </div>
+
+  <script src="./js/jquery-1.10.2.min.js"></script>
+  <script src="./js/jquery.validate.js"></script>
+  <script src="./bootstrap/js/bootstrap.js"></script>
+  <script src="./js/myscript.js"></script>
+  </script>
+  </body>
+</html>
