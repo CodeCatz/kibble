@@ -1,7 +1,7 @@
 //$(document).ready(function(){
 jQuery(function($) {
 		
-		$('simpleForm').validate();
+		$('#simpleForm').validate();
 	
 		$('#demoForm').validate({
 	    rules: {
