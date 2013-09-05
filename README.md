@@ -83,9 +83,14 @@ Every week we'll have a short presentation (or more) on something we want to lea
 - [x] [@ialja](https://github.com/ialja): complicator - validating user input in forms
 
 ###kibble 28.8.2013
-- [ ] [@ashocka](https://github.com/ashocka): introduction to jQuery
-- [ ] [@sparkica](https://github.com/sparkica): form validation with jQuery
+- [x] [@ashocka](https://github.com/ashocka): introduction to jQuery
+- [x] [@sparkica](https://github.com/sparkica): form validation with jQuery
 
+###kibble 04.09.2013
+- [x] [@lumeaa](https://github.com/lumeaa): basics of UX
+
+###kibble 11.09.2013
+- [ ] [@betmenka](https://github.com/betmenka): RMA
 
 #Required reading
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
