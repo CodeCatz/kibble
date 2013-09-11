@@ -90,7 +90,10 @@ Every week we'll have a short presentation (or more) on something we want to lea
 - [x] [@lumeaa](https://github.com/lumeaa): basics of UX
 
 ###kibble 11.09.2013
-- [ ] [@betmenka](https://github.com/betmenka): RMA
+- [x] [@betmenka](https://github.com/betmenka): RMA
+
+###kibble 18.09.2013
+- [ ] [@ialja](https://github.com/ialja): static website generators and GitHub pages
 
 #Required reading
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
