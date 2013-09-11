@@ -1,5 +1,5 @@
 RMA Basics
 =========
 
-## Podnaslov
+## Rich Media Ads at Celtra
 
