@@ -13,19 +13,18 @@ Another interesting blog post: [Blog like a pro with static site generators - it
 
 ## CodeCatz Jekyll
 
-[https://github.com/CodeCatz/codecatz.github.io]
+[https://github.com/CodeCatz/codecatz.github.io](https://github.com/CodeCatz/codecatz.github.io)
 
 Contributing:
 
 - [install Jekyll](http://jekyllrb.com/docs/installation/) (you will also need Ruby and RubyGems
 - fork the codecatz.github.io repo into your own account, clone to your computer
-- add new post into _posts
-- run jekyll and make sure everything looks ok:
-	jekyll serve
+- add new post into `_posts`
+- run jekyll and make sure everything looks ok: `$ jekyll serve`
 - git push & send a pull request
 
 ## Bonus: GitHub Pages
 
 A simple way to create a static page on GitHub is by using the [automatic generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator).
 
-Another way is to create project pages [manually](https://help.github.com/articles/creating-project-pages-manually) by pushing a static website to a gh-pages branch.
+Another way is to create project pages [manually](https://help.github.com/articles/creating-project-pages-manually) by pushing a static website to a `gh-pages` branch.
