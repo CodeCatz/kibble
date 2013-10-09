@@ -15,4 +15,4 @@ net.createServer(function(socket){
 		var index = clients.indexOf(socket);
 		clients.splice(index, 1);
 	})
-})
+}).listen(3000);
