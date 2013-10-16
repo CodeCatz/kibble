@@ -11,35 +11,34 @@
     <form role="form" id="specialForm" method="get" action="">
         <div class="form-group">
         <label class="control-label" for="demoName">Your name (required)</label>
-        <input type="text" class="form-control" id="demoName" name="demoName" placeholder="Enter your name"/ required>
+        <input type="text" class="form-control" id="demoName" name="demoName" placeholder="Enter your name"/>
       </div>
         <div class="form-group">
         <label class="control-label" for="demoEmail">Email address (required)</label>
-        <input type="email" class="form-control" id="demoEmail" name="demoEmail" placeholder="Enter email"/ required>
+        <input type="email" class="form-control" id="demoEmail" name="demoEmail" placeholder="Enter email"/>
       </div>
 
 	<div class="form-group">
 		<label>Are you a codecat...? (required)</label>
-	<div class="checkbox">
-	  <label>
-	    <input type="checkbox" value="" name="checkFunny">Yes, I am!
-	  </label>
-	</div>
+		<div class="checkbox">
+	  		<label for="checkFunny">Yes I am</label>
+	    	<input type="checkbox" value="yes" name="checkFunny"/>
+		</div>
+		<div class="checkbox">
+			<label for="checkFunny">No, I'm not.'</label>
+	    	<input type="checkbox" value="no" name="checkFunny"/>
+		</div>
 	</div>
 
 	<div class="form-group">
 		<label>Select one (required):</label>
 		<div class="radio">
-	  		<label>
-	    		<input type="radio" name="optionsGender" id="optionsRadios1" value="option1">
-	    		Woman
-	  		</label>
+	  		<label for="optionsGender">Woman</label>
+	    		<input type="radio" name="optionsGender" id="optionsRadios1" value="option1"/>
 		</div>
 		<div class="radio">
-	  		<label>
-	    		<input type="radio" name="optionsGender" id="optionsRadios2" value="option2">
-	    		Man
-	  		</label>
+	  		<label for="optionsGender">Man</label>
+	    		<input type="radio" name="optionsGender" id="optionsRadios2" value="option2"/>
 		</div>
 	</div>
 	<div class="form-group">
