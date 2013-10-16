@@ -97,6 +97,8 @@ Every week we'll have a short presentation (or more) on something we want to lea
 
 ###kibble 23.10.2013
 - [ ] [@mr_foto](https://github.com/mr_foto): Git Branches
+- [ ] [@goranche] (https://github.com/goranche): Node.js and JSON
+- [ ] [@sparkica] (https://github.com/sparkica): Python and JSON
 
 #Required reading
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
