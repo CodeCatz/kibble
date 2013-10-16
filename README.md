@@ -93,7 +93,10 @@ Every week we'll have a short presentation (or more) on something we want to lea
 - [x] [@betmenka](https://github.com/betmenka): RMA
 
 ###kibble 18.09.2013
-- [ ] [@ialja](https://github.com/ialja): static website generators and GitHub pages
+- [x] [@ialja](https://github.com/ialja): static website generators and GitHub pages
+
+###kibble 23.10.2013
+- [ ] [@mr_foto](https://github.com/mr_foto): Git Branches
 
 #Required reading
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
