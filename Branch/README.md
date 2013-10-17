@@ -1,4 +1,4 @@
-# Branches
+# Git Branches
 
 ![Git Branching](https://www.atlassian.com/wac/landing/git/tutorial/git-branches/pageSections/0/contentColumnTwo/0/imageBinary/git-tutorial_branching-merging.png)
 
