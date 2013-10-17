@@ -18,10 +18,6 @@
 
 ![git-flow by nvie](http://nvie.com/img/2009/12/Screen-shot-2009-12-24-at-11.32.03.png)
 
-## The important part
+## The important part :shipit:
 
-:shipit:
-
-## F*** yea!
-
-![Daftpunktocat-Guy](http://octodex.github.com/images/daftpunktocat-guy.gif)
+![ship it squirrel](http://shipitsquirrel.github.io/images/ship%20it%20squirrel.png)
