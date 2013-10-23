@@ -35,17 +35,17 @@ It's really simple. Ok, maybe it's not **that** simple, but you can do it.
  ```
 
 5. Add a remote for this CodeCatz kibble by typing:
-  ````
+  ```
   git remote add upstream https://github.com/CodeCatz/kibble.git
   ```
   This will add a link with a name upstream to the original repo you forked from.
 
 6. Verify new remote:
-  ````
+  ```
   git remote -v
   ```
   You should see additional two rows:
-  ````
+  ```
   origin  https://github.com/<YOUR USERNAME>/kibble.git (fetch)
   origin  https://github.com/<YOUR USERNAME>/kibble.git (push)
   upstream  https://github.com/CodeCatz/kibble.git (fetch)
