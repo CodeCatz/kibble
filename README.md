@@ -96,9 +96,16 @@ Every week we'll have a short presentation (or more) on something we want to lea
 - [x] [@ialja](https://github.com/ialja): static website generators and GitHub pages
 
 ###kibble 23.10.2013
-- [ ] [@mr_foto](https://github.com/mr_foto): Git Branches
+- [x] [@mr_foto](https://github.com/mr_foto): Git Branches
+- [x] [@sparkica] (https://github.com/sparkica): Python and JSON
+
+###kibble 30.10.2013
 - [ ] [@goranche] (https://github.com/goranche): Node.js and JSON
-- [ ] [@sparkica] (https://github.com/sparkica): Python and JSON
+- [ ] [nina] (Project presentation)
+- [ ] [@ashocka] (https://github.com/ashocka) Semantic Grid System
+
 
 #Required reading
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork)
+- 
+
