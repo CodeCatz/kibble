@@ -102,7 +102,7 @@ Every week we'll have a short presentation (or more) on something we want to lea
 ###kibble 30.10.2013
 - [ ] [@goranche] (https://github.com/goranche): Node.js and JSON
 - [ ] [nina]: Project presentation
-- [ ] [@Fibiola]: Rock, paper, scissors, Spock, Lizzard - update
+- [ ] [@Fibiola] (https://github.com/Fibiola): Rock, paper, scissors, Spock, Lizzard - update
 - [ ] [@ashocka] (https://github.com/ashocka) Semantic Grid System and responsive design
 
 
