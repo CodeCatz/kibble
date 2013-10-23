@@ -1,6 +1,6 @@
 # Git Branches
 
-![My presentation on Git Branches](http://www.slideshare.net/mrfoto/git-branches-27488094)
+[My presentation on Git Branches](http://www.slideshare.net/mrfoto/git-branches-27488094)
 
 ## About Branches
 
