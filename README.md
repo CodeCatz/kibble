@@ -6,7 +6,7 @@ Tutorials, presentations and what-nots.
 ##Read this first
 
 Working with the Kibble repository won't be the same as with litterbox. You don't have an access to directly push your changes to kibble. 
-It's not that we don't like you anymore -- we do! -- we just want to make you comfortable with a differend kind of *workflow*.
+It's not that we don't like you anymore -- we do! -- we just want to make you comfortable with a differend kind of a *workflow*.
 
 Suggested reading: [GitHub flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
@@ -99,7 +99,7 @@ Every week we'll have a short presentation (or more) on something we want to lea
 - [x] [@mr_foto](https://github.com/mr_foto): Git Branches
 - [x] [@sparkica] (https://github.com/sparkica): Python and JSON
 
-###kibble 30.10.2013
+###kibble 29.10.2013
 - [ ] [@goranche] (https://github.com/goranche): Node.js and JSON
 - [ ] [nina]: Project presentation
 - [ ] [@Fibiola] (https://github.com/Fibiola): Rock, paper, scissors, Spock, Lizzard - update
