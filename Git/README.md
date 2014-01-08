@@ -20,7 +20,7 @@ Cheatsheet: https://na1.salesforce.com/help/doc/en/salesforce_git_developer_chea
 
 ## git pu
 
-Add to gitconfig file
+Add to gitconfig file (repository_dir/.git/config)
 
 ```
 [alias]
