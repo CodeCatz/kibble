@@ -17,3 +17,12 @@
 More info: http://gitref.org/basic/
 
 Cheatsheet: https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf
+
+## git pu
+
+Add to gitconfig file
+
+```
+[alias]
+        pu = !"git fetch origin -v; git fetch upstream -v; git merge upstream/master"
+```
